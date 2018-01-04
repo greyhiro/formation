@@ -11,8 +11,6 @@ git remote add origin (lien git) -> envoyer les données qu'on souhaite sur le l
 
 git clone -> cloner un projet git sur notre machine
 
-git 
-
 git add <fichier> -> travailler sur un element de la branche
 git add . ->travailler sur tout elements de la branche
 
