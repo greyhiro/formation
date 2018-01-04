@@ -5,30 +5,29 @@ Commande Utile a Git
 <ol>
 
 
-git init -> initialiser git sur le projet
+<list>git init -> initialiser git sur le projet</list>
 
-git remote add origin (lien git) -> envoyer les données qu'on souhaite sur le lien git precis
+<list>git remote add origin (lien git) -> envoyer les données qu'on souhaite sur le lien git precis</list>
 
-git clone -> cloner un projet git sur notre machine
+<list>git clone -> cloner un projet git sur notre machine</list>
 
-git add <fichier> -> travailler sur un element de la branche
-git add . ->travailler sur tout elements de la branche
+<list> git add <fichier> -> travailler sur un element de la branche </list>
+<list> git add . ->travailler sur tout elements de la branche </list>
 
-git commit -> envoyer modif des elements de la branches
-git commit <fichier> -> envoyer modif d'un element de la branche
+<list> git commit -> envoyer modification des éléments de la branche <list>
+<list> git commit <fichier> -> envoyer modification d'un élément de la branche.</list>
 
-git push -> envoyer sur le serveur distant
-git push -u origin <branche> -> envoyer sur serveur distant les données de la branche qui nous interesse
+<list>git push -> envoyer sur le serveur distant</list>
+<list>git push -u origin <branche> -> envoyer sur le serveur distant(remote) les données de la branche qui nous intéresse.</list>
 
-git log -> historique des commit
+<list>git log -> historique des commits</list>
 
-ls (commande linux) -> nom des fichiers dans repository
+<list>ls (commande linux,l'option -a pour afficher les fichiers cachés.) -> nom des fichiers dans repository</list>
 
-git fetch -> historique des modification sur le serveur
+<list>git fetch -> historique des modifications sur le serveur<list>
 
-git pull -> récupérer les travaux présents sur la branche distante et fusionner (merge) avec votre branche locale, on utilise la commande
-
-git merge <branche1 branche2> associer les branches ensemble
+<list>git pull -> récupérer les travaux présents sur la branche distante et fusionner(merge) avec votre branche locale, on utilise la commande :
+git merge <branche2> associe la branche 2 à la branche actuelle. </list>
 </ol>
 
 
